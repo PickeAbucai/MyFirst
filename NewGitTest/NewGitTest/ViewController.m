@@ -17,7 +17,13 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    
+    NSLog(@"github 第一次");
+    NSLog(@"github 第一次");
+    NSLog(@"github 第一次");
+    NSLog(@"github 第一次");
+    NSLog(@"github 第一次");
+
 }
 
 - (void)didReceiveMemoryWarning
