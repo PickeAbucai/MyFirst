@@ -1,5 +1,5 @@
 # first
 第一次测试 github 
- ![image](https://github.com/PickeAbucai/MyFirst/image/Simulator Screen Shot 2016年5月16日 19.17.45)
- ![image](https://github.com/PickeAbucai/MyFirst/image/Simulator Screen Shot 2016年5月16日 19.17.38)
- ![image](https://github.com/PickeAbucai/MyFirst/image/Simulator Screen Shot 2016年5月16日 19.17.42)
+ ![image](https://github.com/PickeAbucai/MyFirst/image/SimulatorScreenShot1)
+ ![image](https://github.com/PickeAbucai/MyFirst/image/SimulatorScreenShot2)
+ ![image](https://github.com/PickeAbucai/MyFirst/image/SimulatorScreenShot3)
